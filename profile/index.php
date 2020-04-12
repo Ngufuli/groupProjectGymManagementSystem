@@ -34,7 +34,7 @@ if(isset($_SESSION['admin']))
     <meta name="author" content="">
     <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
 
-    <title>Gym Management System</title>
+    <title>Fitness Management System</title>
     
 
     <!-- Bootstrap core CSS -->
