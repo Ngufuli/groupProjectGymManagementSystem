@@ -21,7 +21,7 @@ if (login_check($mysqli) == true) {
     <meta name="author" content="">
     <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
 
-    <title>Gym Manangement System</title>
+    <title>Fitness Manangement System</title>
     
 
     <!-- Bootstrap core CSS -->

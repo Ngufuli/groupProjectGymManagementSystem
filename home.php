@@ -1,7 +1,7 @@
 
 <link rel="stylesheet" type="text/css" href="style.css">
 
-<head><title>Gym Management System</title>
+<head><title>Fitness Management System</title>
 <script type="text/JavaScript" src="js/sha512.js"></script>
         <script type="text/JavaScript" src="js/forms.js"></script>
  </head>
@@ -115,7 +115,7 @@ else
 <div id="footer"><p><a href="home.php">Home Page</a>  <a href=""></a> | <a href="https://www.healthkart.com" target=_blank>Healthkart.com</a> | <a href="https://www.bodybuilding.com" target=_blank>BodyBuilding.COM</a> |  <a href="Contact.php">Contact Us</a></p>
 
 
-<div class="copy"> 2013<sup>�</sup> Copyright GymManangementSystem All Rights Reserved </div>
+<div class="copy"> 2013<sup>�</sup> Copyright FitnessManangementSystem All Rights Reserved </div>
 
 <div class="web">
   <p><a href="http://www.facebook.com/navgag333" target="_blank">Creator</a></p>
