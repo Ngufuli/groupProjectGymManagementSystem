@@ -34,7 +34,7 @@ else {
     <meta name="author" content="">
     <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
 
-    <title>GymManagementSystem</title>
+    <title>FitnessManagementSystem</title>
     
 
     <!-- Bootstrap core CSS -->

@@ -20,7 +20,7 @@ if (login_check($mysqli) == true) {
     <meta name="author" content="">
     <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
 
-    <title>Gym Management System</title>
+    <title>Fitness Management System</title>
     
 
     <!-- Bootstrap core CSS -->
@@ -63,7 +63,7 @@ if (login_check($mysqli) == true) {
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.php">About Fitness</a>
+          <a class="navbar-brand" href="index.php">Fitness Management System</a>
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
@@ -116,11 +116,11 @@ if (login_check($mysqli) == true) {
     <div class="jumbotron">
   <ul style="list-style:none;">
 <li>
-<b><i>Ratik Chandna</i></b>
+<b><i>Jon Michael</i></b>
 <li>
 <b>Phone no</b>-9872851376
 <li>
-<b>Email</b>-navgag33@gmail.com
+<b>Email</b>-jonmike@gmail.com
 </ul>
 
      </div>
@@ -134,7 +134,7 @@ if (login_check($mysqli) == true) {
       <hr>
 
       <footer>
-      <p>&copy; GymManagementSystem</p>
+      <p>&copy; FitnessManagementSystem</p>
       </footer>
     </div> <!-- /container -->
 
