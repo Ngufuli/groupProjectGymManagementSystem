@@ -38,7 +38,7 @@ if(!isset($_SESSION['username']))
     <meta name="author" content="">
     <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
 
-    <title>Gym Management System</title>
+    <title>Fitness Management System</title>
     
 
     <!-- Bootstrap core CSS -->
@@ -72,7 +72,7 @@ if(!isset($_SESSION['username']))
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="../index.php">Gym Manangement System</a>
+          <a class="navbar-brand" href="../index.php">Fitness Manangement System</a>
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">

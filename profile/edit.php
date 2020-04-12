@@ -31,7 +31,7 @@ $q1 = mysqli_fetch_array($q);
     <meta name="author" content="">
     <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
 
-    <title>About Fitness</title>
+    <title>Fitness Management System</title>
     
 
     <!-- Bootstrap core CSS -->
