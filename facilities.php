@@ -21,7 +21,7 @@ if (login_check($mysqli) == true) {
     <meta name="author" content="">
     <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
 
-    <title>Gym Management System</title>
+    <title>Fitness Management System</title>
     
 
     <!-- Bootstrap core CSS -->
@@ -137,7 +137,7 @@ Aerobics is an effective physical exercise which is often done to music. Apart f
       <hr>
 
       <footer>
-        <p>&copy; GymMnanagementSystem</p>
+        <p>&copy; FitnessMnanagementSystem</p>
       </footer>
     </div> <!-- /container -->
 

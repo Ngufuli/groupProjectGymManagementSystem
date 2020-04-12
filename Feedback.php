@@ -24,7 +24,7 @@ echo '<p class="s"></p>';
     <meta name="author" content="">
     <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
 
-    <title>Gym Manangement System</title>
+    <title>Fitness Manangement System</title>
     
 
     <!-- Bootstrap core CSS -->
@@ -62,7 +62,7 @@ echo '<p class="s"></p>';
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Gym Management System</a>
+          <a class="navbar-brand" href="#">Fitness Management System</a>
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
@@ -135,7 +135,7 @@ echo '<p class="s"></p>';
       <hr>
 
       <footer>
-      <p>&copy; GymManangementSystem</p>
+      <p>&copy; FitnessManangementSystem</p>
       </footer>
     </div> <!-- /container -->
 

@@ -21,7 +21,7 @@ if (login_check($mysqli) == true) {
     <meta name="author" content="">
     <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
 
-    <title>Gym Management System</title>
+    <title>Fitness Management System</title>
     
 
     <!-- Bootstrap core CSS -->
@@ -64,7 +64,7 @@ if (login_check($mysqli) == true) {
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.php">Gym Managemen System</a>
+          <a class="navbar-brand" href="index.php">Fitness Managemen System</a>
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
@@ -119,7 +119,7 @@ if (login_check($mysqli) == true) {
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
   <form action="editp.php" method="post" class="form-signin">
-   <div class="control-group"><p>Gym Management System <div class="control-group"><input type="text" placeholder="Name" class="form-control" id="fn" name ="fn"></div><br>
+   <div class="control-group"><p>Fitness Management System <div class="control-group"><input type="text" placeholder="Name" class="form-control" id="fn" name ="fn"></div><br>
    <input type="submit"  class="btn btn-lg btn-primary btn-block" value="Edit Details" >
    </form>
    
@@ -135,7 +135,7 @@ if (login_check($mysqli) == true) {
       <hr>
 
       <footer>
-        <p>&copy; GymManagementSystem</p>
+        <p>&copy; FitnessManagementSystem</p>
       </footer>
     </div> <!-- /container -->
 
